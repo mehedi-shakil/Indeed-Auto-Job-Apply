@@ -1,0 +1,4 @@
+browser = 
+driver = ./chromedriver.exe
+headless = False
+exit_on_missing_element = False

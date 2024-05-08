@@ -1,0 +1,50 @@
+type,keyword,answer
+text,Recent Job Title,Head of Customer Success
+text,Recent Employer,Threshold
+text,Enter number to receive text messages,3143129164
+radio,It is okay to send me text messages about this opportunity,Yes
+select,Years of sales experience,2
+radio,Can you work in a position with weekly/monthly sales goals?, Yes
+select,Are you currently licensed?, No
+radio,Do you have experience working for a State Farm agent?, No
+radio,Will you work in a position with a base salary + commission compensation structure?, Yes
+radio,Are you willing and able to commute to our office?, Yes
+radio,Can you work this schedule?, Yes 
+radio,Are you willing to proceed, Yes
+text,What makes you unique?,I'm a good manager
+text,refer,No
+radio,Highest level of education,Bachelors
+radio,"Are you willing and able to commute to our office in Kirkwood, MO 63122?",Yes
+radio,Which type of sales role best describes your selling style?,hunter
+radio,"Are you willing and able to commute to our office in Manchester, MO 63021?",Yes
+radio,Are you comfortable working in a position with weekly/monthly sales goals?,Yes
+radio,This position requires outbound calling including cold calls to potential customers. Are you comfortable with this?,Yes
+radio,Are you comfortable working in a position with a base salary + commission compensation structure?,Yes
+radio,This position may require you to work certain evenings (for marketing/events) and/or Saturdays. Are you comfortable with this schedule?,Yes
+select,Do you have any military experience?,no
+radio,Our employment process requires an in-depth background investigation verifying clear criminal history. Are you confident that your background will clear this investigation?,Yes
+text,,
+radio,"Will you be able to reliably commute or relocate to Tempe, AZ 85281 for this job?",yes
+radio,Are you authorized to work in the United States?,yes
+text,How many years of Business-to-Business sales experience do you have?,5
+radio,Do you have a valid Health Insurance License?,yes
+radio,This position requires outbound calling including cold calls to potential customers. Can you do this?,yes
+radio,Years of experience working for a State Farm agent?,1-2
+radio,"Will you be able to reliably commute or relocate to Philadelphia, MS 39350 for this job?",yes
+text,How many years of REST experience do you have?,3
+text,How many years of APIs experience do you have?,3
+radio,"Do you consent to receiving text communications related to your job application via SMS from Trinity Solar Careers, which may include autodialed and automated messages, at the mobile number provided? Message frequency may vary and applicable data rates may apply.",no
+textarea,"This is an employer-written question. You can report inappropriate questions to Indeed through the ""Report Job"" link at the bottom of the job description.
+
+""Are you 21 or older?""(optional)",21
+textarea,"This is an employer-written question. You can report inappropriate questions to Indeed through the ""Report Job"" link at the bottom of the job description.
+
+""What is your phone number?""(optional)",07654433222
+textarea,"This is an employer-written question. You can report inappropriate questions to Indeed through the ""Report Job"" link at the bottom of the job description.
+
+""What is your email address?""(optional)",email@email.com
+text,"How many years of Mobile or Web Framework (e.g., Flutter, Angular, React) experience do you have?",3
+textarea,"This is an employer-written question. You can report inappropriate questions to Indeed through the ""Report Job"" link at the bottom of the job description.
+
+""Are you at least 21 years of age or older?""(optional)",yes
+radio,Do you have a valid Driver's License?,yes
